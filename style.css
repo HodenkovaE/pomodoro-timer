@@ -8,7 +8,7 @@ body {
 body {
   font-family: "Space Grotesk", sans-serif;
   font-weight: 600;
-  background: url("./img/bg.png");
+  background: url("./img/1.jpg");
   display: flex;
   align-items: center;
   justify-content: center;
@@ -62,7 +62,7 @@ body {
 .btn.active,
 .btn-big {
   background-color: #fff;
-  border-color: #fff;
+  border-color: yellow;
   color: black;
 }
 
@@ -81,6 +81,7 @@ body {
 #pomodoro-time {
   color: white;
   font-size: 8rem;
+  border-color: black;
 }
 
 .reset {
